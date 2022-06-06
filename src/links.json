@@ -1,8 +1,8 @@
 {
   "/": "https://sasapps.io",
   "book": "https://calendly.com/4gl/strategy",
-  "dc": "https://datacontroller.io",
   "chop": "https://core.sasjs.io/mp__chop_8sas.html",
-  "core": "https://raw.githubusercontent.com/sasjs/core/main/all.sas",
+  "dc": "https://datacontroller.io",
+  "dcdeploy": "https://git.4gl.io/dc/deploy/-/blob/main/README.md",
   "weekly": "https://getmibo.com/join/KARS-QEXU-HAXF-ZG3T"
 }
