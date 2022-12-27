@@ -5,8 +5,7 @@
   "corelink0": "https://blogs.sas.com/content/sasdummy/2015/04/16/how-to-convert-a-unix-datetime-to-a-sas-datetime",
   "daily": "https://meet.4gl.io/daily",
   "dc": "https://datacontroller.io",
-  "dcdeploy": "https://git.4gl.io/dc/deploy/src/branch/main/README.md",
-  "dctmp": "https://git.4gl.io/allan/tmp/-/blob/main/README.md",
+  "dcdeploy": "https://git.4gl.io/dc/deploy",
   "sasdocs": "https://sasjs.github.io/docs",
   "sasjs": "https://matrix.to/#/#sasjs:4gl.io",
   "weekly": "https://getmibo.com/join/GKCF-78JM-S3AA-K4RW"
